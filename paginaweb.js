@@ -1,0 +1,1 @@
+document.getElementById('data').innerHTML = new Date().toLocaleDateString();
